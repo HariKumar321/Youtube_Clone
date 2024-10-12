@@ -1,4 +1,4 @@
-In this project, I build Youtube Clone by applying concepts from the MERN stack framework.
+In this project, I build Youtube Clone (NXT Watch) by applying concepts from the MERN stack framework.
 
 ### Design Files
 
